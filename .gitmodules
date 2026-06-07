@@ -1,0 +1,15 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/genc-v/content
+[submodule "assets"]
+	path = assets
+	url = https://github.com/genc-v/assets
+[submodule "auth"]
+	path = auth
+	url = https://github.com/genc-v/auth
+[submodule "organisations"]
+	path = organisations
+	url = https://github.com/genc-v/organisations
+[submodule "generic-mobile"]
+	path = generic-mobile
+	url = https://github.com/genc-v/generic-mobile

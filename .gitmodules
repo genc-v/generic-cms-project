@@ -1,18 +1,24 @@
 [submodule "content"]
 	path = content
 	url = https://github.com/genc-v/content
+	branch = main
 [submodule "assets"]
 	path = assets
 	url = https://github.com/genc-v/assets
+	branch = main
 [submodule "auth"]
 	path = auth
 	url = https://github.com/genc-v/auth
+	branch = main
 [submodule "organisations"]
 	path = organisations
 	url = https://github.com/genc-v/organisations
+	branch = main
 [submodule "generic-mobile"]
 	path = generic-mobile
 	url = https://github.com/genc-v/generic-mobile
+	branch = master
 [submodule "email-sender"]
 	path = email-sender
 	url = https://github.com/OrgestPasha/Email-sender
+	branch = main

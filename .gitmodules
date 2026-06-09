@@ -13,3 +13,6 @@
 [submodule "generic-mobile"]
 	path = generic-mobile
 	url = https://github.com/genc-v/generic-mobile
+[submodule "email-sender"]
+	path = email-sender
+	url = https://github.com/OrgestPasha/Email-sender
